@@ -29,3 +29,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![image](https://user-images.githubusercontent.com/79948400/124820482-69181480-df22-11eb-9182-ad0dc331ffc7.png)
 
 ![image](https://user-images.githubusercontent.com/79948400/124820567-7f25d500-df22-11eb-8c13-f7bfa9ebb033.png)
+
+# Screenshot of Heroku deployment in CLI
+
+![image](https://user-images.githubusercontent.com/79948400/124820738-b72d1800-df22-11eb-82a5-4f9bc5e69e60.png)
