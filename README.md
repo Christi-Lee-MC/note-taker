@@ -1,6 +1,6 @@
 # note-taker
-GitHub URL:
-Heroku deployed link:
+GitHub URL:  https://github.com/Christi-Lee-MC/note-taker
+Heroku deployed link:  https://ch11notetaker.herokuapp.com/
 
 # User Story
 
